@@ -19,7 +19,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Box sx={{ 
           minHeight: '100vh',
           display: 'flex',

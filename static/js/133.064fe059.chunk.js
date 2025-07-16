@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfr172_app=self.webpackChunknfr172_app||[]).push([[133],{4133:(e,s,r)=>{r.r(s),r.d(s,{default:()=>h});r(5043);var n=r(7353),a=r(4496),c=r(579);const h=()=>(0,c.jsxs)(n.A,{children:[(0,c.jsx)(a.A,{variant:"h4",children:"Resources"}),(0,c.jsx)(a.A,{children:"*Text goes here*"})]})}}]);
+//# sourceMappingURL=133.064fe059.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknfr172_app=self.webpackChunknfr172_app||[]).push([[2],{9002:(e,s,a)=>{a.r(s),a.d(s,{default:()=>d});a(5043);var h=a(7353),r=a(4496),n=a(579);const d=()=>(0,n.jsxs)(h.A,{children:[(0,n.jsx)(r.A,{variant:"h4",children:"Media"}),(0,n.jsx)(r.A,{children:"*I wish we had some media to go here \ud83e\udd37\u200d\u2642\ufe0f*"})]})}}]);
+//# sourceMappingURL=2.a93d0240.chunk.js.map

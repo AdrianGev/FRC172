@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/FRC172/static/js/main.c346c69b.js",
+    "static/js/664.903f6ef5.chunk.js": "/FRC172/static/js/664.903f6ef5.chunk.js",
+    "static/js/425.1e24f082.chunk.js": "/FRC172/static/js/425.1e24f082.chunk.js",
+    "static/js/797.674f1c5c.chunk.js": "/FRC172/static/js/797.674f1c5c.chunk.js",
+    "static/js/667.28a1c71d.chunk.js": "/FRC172/static/js/667.28a1c71d.chunk.js",
+    "static/js/2.a93d0240.chunk.js": "/FRC172/static/js/2.a93d0240.chunk.js",
+    "static/js/133.064fe059.chunk.js": "/FRC172/static/js/133.064fe059.chunk.js",
+    "static/js/351.08623439.chunk.js": "/FRC172/static/js/351.08623439.chunk.js",
+    "static/js/460.034b798e.chunk.js": "/FRC172/static/js/460.034b798e.chunk.js",
+    "static/js/453.36825780.chunk.js": "/FRC172/static/js/453.36825780.chunk.js",
+    "static/js/749.c51248b0.chunk.js": "/FRC172/static/js/749.c51248b0.chunk.js",
+    "static/media/adobelogo.jpg": "/FRC172/static/media/adobelogo.88112097fdf7c84ed038.jpg",
+    "static/media/logo.png": "/FRC172/static/media/logo.61f6955021a0972b8d5b.png",
+    "static/media/brookfieldproperties.png": "/FRC172/static/media/brookfieldproperties.cf4e654cc8e1a45a1078.png",
+    "index.html": "/FRC172/index.html",
+    "main.c346c69b.js.map": "/FRC172/static/js/main.c346c69b.js.map",
+    "664.903f6ef5.chunk.js.map": "/FRC172/static/js/664.903f6ef5.chunk.js.map",
+    "425.1e24f082.chunk.js.map": "/FRC172/static/js/425.1e24f082.chunk.js.map",
+    "797.674f1c5c.chunk.js.map": "/FRC172/static/js/797.674f1c5c.chunk.js.map",
+    "667.28a1c71d.chunk.js.map": "/FRC172/static/js/667.28a1c71d.chunk.js.map",
+    "2.a93d0240.chunk.js.map": "/FRC172/static/js/2.a93d0240.chunk.js.map",
+    "133.064fe059.chunk.js.map": "/FRC172/static/js/133.064fe059.chunk.js.map",
+    "351.08623439.chunk.js.map": "/FRC172/static/js/351.08623439.chunk.js.map",
+    "460.034b798e.chunk.js.map": "/FRC172/static/js/460.034b798e.chunk.js.map",
+    "453.36825780.chunk.js.map": "/FRC172/static/js/453.36825780.chunk.js.map",
+    "749.c51248b0.chunk.js.map": "/FRC172/static/js/749.c51248b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c346c69b.js"
+  ]
+}
